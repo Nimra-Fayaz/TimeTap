@@ -11,6 +11,18 @@ This application combines two main features:
 
 The project demonstrates the implementation of an immutable Duration type with operator overloading, a monad-like Timed wrapper for functional composition, and clean architecture using MVVM pattern with Jetpack Compose.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/time_calculator.jpg" width="250" alt="Time Calculator Screen"/>
+  <img src="screenshots/todo_list.jpg" width="250" alt="Todo List Screen"/>
+  <img src="screenshots/todo_list_completed.jpg" width="250" alt="Task Completion Dialog"/>
+</p>
+
+<p align="center">
+  <em>Time Calculator with mustard & black gradient theme | Todo Management with multi-select | Task completion with accumulated time</em>
+</p>
+
 ## Features
 
 ### Time Calculator
